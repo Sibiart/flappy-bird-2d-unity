@@ -1,5 +1,5 @@
 # 🐦 Flappy Bird 2D — Unity Remake with a Custom Procedural Art & Audio Pipeline
-
+DOWNLOAD NOW: https://github.com/Sibiart/flappy-bird-2d-unity/releases/tag/v1.0.0
 A from-scratch Unity 2D remake of the Flappy Bird formula, rebuilt not just to clone the gameplay but to explore **procedural content generation** — the background art, character sprites, UI panels, and sound effects are all generated at edit-time by custom C# tooling rather than imported from external art/audio software.
 
 > Built as a hands-on portfolio project to demonstrate Unity scripting, game-feel implementation, and editor tooling skills.
