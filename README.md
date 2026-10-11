@@ -106,16 +106,13 @@ Assets/
 
 ## 📷 Screenshots
 
-*(Add a few gameplay screenshots / a short GIF here — this is often the first thing a recruiter looks at.)*
+
 
 ---
 
-## 📄 License
-
-`<Add a license, e.g. MIT>`
 
 ---
 
 ## 👤 Author
 
-`<Your name>` — `<portfolio link>` · `<LinkedIn>` · `<email>`
+Sibi Manikandan .V 
