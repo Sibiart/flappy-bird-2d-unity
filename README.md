@@ -106,7 +106,14 @@ Assets/
 
 ## 📷 Screenshots
 
-
+ On Game
+ <img width="1366" height="768" alt="Screenshot 2026-10-12 004815" src="https://github.com/user-attachments/assets/18d0d951-aa4e-490d-b28b-1503e4a20a6c" />
+ Game Over Screen
+<img width="1366" height="768" alt="Screenshot 2026-10-12 004734" src="https://github.com/user-attachments/assets/feda5693-fe1e-4238-bea1-7d74dd60df6c" />
+Pause Menu
+<img width="1366" height="768" alt="Screenshot 2026-10-12 004833" src="https://github.com/user-attachments/assets/43f88be3-8bba-41d1-98b2-5d2d42dfca17" />
+Main Menu
+<img width="1366" height="768" alt="Screenshot 2026-10-12 004833" src="https://github.com/user-attachments/assets/4f139226-374f-4c41-b4c8-ed5ac4ad9b46" />
 
 ---
 
