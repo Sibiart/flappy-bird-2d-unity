@@ -113,7 +113,8 @@ Assets/
 Pause Menu
 <img width="1366" height="768" alt="Screenshot 2026-10-12 004833" src="https://github.com/user-attachments/assets/43f88be3-8bba-41d1-98b2-5d2d42dfca17" />
 Main Menu
-<img width="1366" height="768" alt="Screenshot 2026-10-12 004833" src="https://github.com/user-attachments/assets/4f139226-374f-4c41-b4c8-ed5ac4ad9b46" />
+<img width="767" height="429" alt="Screenshot 2026-10-12 004916" src="https://github.com/user-attachments/assets/4abf7dc3-0f7f-43c2-add3-a89b4a5d5956" />
+
 
 ---
 
