@@ -30,7 +30,8 @@ The wing-flap sound effect is **synthesized, not recorded**: filtered white nois
 A hand-rolled 9-sliced rounded-rectangle sprite (generated procedurally, not from a UI asset pack) powers every panel and button in the game, giving a consistent, cohesive "Midnight Neon" visual theme across the main menu, HUD, pause screen, and game-over screen.
 
 ### 🔥 Runtime VFX
-   <img width="252" height="151" alt="image" src="https://github.com/user-attachments/assets/181b7928-fb0d-4fac-86ac-cca025e819b1" />
+<img width="252" height="151" alt="image" src="https://github.com/user-attachments/assets/181b7928-fb0d-4fac-86ac-cca025e819b1" />
+
 The bird trails a particle-based flame effect from its wings — built with Unity's `ParticleSystem` using gradient-over-lifetime, size-over-lifetime, and Perlin noise turbulence modules for a believable flicker, rather than a pre-baked animation.
 
 ---
